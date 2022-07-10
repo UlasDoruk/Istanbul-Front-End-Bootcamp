@@ -1,19 +1,6 @@
 {
-  "name": "bootcamp",
-  "version": "1.0.0",
-  "description": "- Sorting added :+1:",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/UlasDoruk/Istanbul-Front-End-bootcamp.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/UlasDoruk/Istanbul-Front-End-bootcamp/issues"
-  },
-  "homepage": "https://github.com/UlasDoruk/Istanbul-Front-End-bootcamp#readme"
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
 }
