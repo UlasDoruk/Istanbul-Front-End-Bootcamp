@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+.App.dark{
+  /* color: #fff; */
+  background-color: #282c34;
+}
+
+table>thead>tr>th {
+  color:red;
+  cursor: pointer;
+}
