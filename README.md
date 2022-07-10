@@ -1,7 +1,6 @@
 # First Week HW
 
-- Sıra no sıralaması mevcut :+1:
-- Bekleme animasyonu mevcut :+1:
+- Sorting added :+1:
 
 # Second Week HW 
 
